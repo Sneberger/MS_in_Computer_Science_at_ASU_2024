@@ -9,4 +9,4 @@ Grade: A-
 
 ---
 
-See cse511_overview.pdf for description of class.
+See cse511_overview.pdf for description of class. The class involved manipulating data in MySQL databases using PyCharm but also using Python to call MySQL for advanced flexibility.
