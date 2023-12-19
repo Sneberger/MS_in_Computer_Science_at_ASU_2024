@@ -9,4 +9,4 @@ Grade: B
 
 ---
 
-See cse_551_mcspdf for description of class which is an advanced algorithm class covering Greedy Algorithms, Divide-and-Conquer, Dynamic Programming, Amortized Analysis, Graph Algorithms, Network Flowswith and emphasising algorithm efficiency including P, NP, and NP-Completeness
+See cse_551_mcspdf for description of class which is an advanced algorithm class covering Greedy Algorithms, Divide-and-Conquer, Dynamic Programming, Amortized Analysis, Graph Algorithms, Network Flows all emphasising algorithm efficiency including P, NP, and NP-Completeness
